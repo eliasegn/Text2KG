@@ -22,9 +22,3 @@ Aquí se usaron llaves de OpenAI, por lo que no se incluyen en el repositorio. M
 
 ### 5. Presentación
 - `Proyecto_Text2KG.pdf`
-
-### 6. Repositorio de GitHub
-https://github.com/eliasegn/Text2KG
-Contiene todos los documentos que se usaron y obtuvieron en el proyecto.
-
-- 
