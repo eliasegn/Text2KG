@@ -22,4 +22,4 @@ Contiene la ontología diseñada en formato OWL.
 ### 5. Presentación
 - `Proyecto_Text2KG.pdf`
 
-Los docuemntos que no están disponibles en el repositorio usaron llaves de OpenAI. Si se desea consultar dichos arhivos, mandar correo [aquí](mailto:eliasgn@ciencias.unam.mx).
+Los documentos que no están disponibles en el repositorio usaron llaves de OpenAI. Si se desea consultar dichos arhivos, mandar correo [aquí](mailto:eliasgn@ciencias.unam.mx).
