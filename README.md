@@ -1,7 +1,29 @@
-Proyecto de la materia Text2KG (Texto a Gráficas de Conocimiento). Se tiene el objetivo de hacer un análisis de los libros gratuitos de la SEP en México desde la generación 1960 hasta la 2019 y buscar cambios en el discurso o sesgos ideológicos.
+# Representación de la Revolución Mexicana en Libros de Texto de la SEP
 
-OCR realizacon con Tesseract.
+## Contenido de la entrega
 
-NER realizado con el modelo "mrm8488/bert-spanish-cased-finetuned-ner" de Hugging Face.
+### 1. `text2kg-ontologies.owl (1)`
+Contiene la ontología diseñada en formato OWL.
 
-Para el NER y la Extraccion de relaciones final se usó OpenAI. No se incluyen los notebooks por privacidad de la llave. Para tener acceso a ellos contactarme en eliasgn@ciencias.unam.mx.
+### 2. Extracción de Entidades (NER)
+- `NER_final.ipynb`: Notebook para procesar entidades usando un LLM de OpenAI
+- `Ideologias.ipynb`: Notebook para clasificar ideologías en cada texto.
+
+### 3. Extracción de Relaciones
+- `ExtracciónRelaciones_final.ipynb`: Notebook para la extracción de relaciones usando un LLM de OpenAI
+- Los resultados de las relaciones extraídas se almacenan y analizan para cada generación.
+
+### 4. Reporte
+- `reporte_final.pdf`: Documento en formato PDF con:
+  - Análisis cuantitativo de las entidades extraídas
+  - Identificación de entidades con más de 50 menciones.
+  - Tabla de duplicados por libro y generación.
+
+### 5. Presentación
+- `Proyecto_Text2KG.pdf`
+
+### 6. Repositorio de GitHub
+https://github.com/eliasegn/Text2KG
+Contiene todos los documentos que se usaron y obtuvieron en el proyecto.
+
+- 
