@@ -8,6 +8,7 @@ Contiene la ontología diseñada en formato OWL.
 ### 2. Extracción de Entidades (NER)
 - `NER_final.ipynb`: Notebook para procesar entidades usando un LLM de OpenAI
 - `Ideologias.ipynb`: Notebook para clasificar ideologías en cada texto.
+Aquí se usaron llaves de OpenAI, por lo que no se incluyen en el repositorio. Mandar correo [aquí](mailto:eliasgn@ciencias.unam.mx) para solicitar los archivos
 
 ### 3. Extracción de Relaciones
 - `ExtracciónRelaciones_final.ipynb`: Notebook para la extracción de relaciones usando un LLM de OpenAI
