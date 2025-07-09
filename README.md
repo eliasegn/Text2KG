@@ -1,6 +1,6 @@
 # Representación de la Revolución Mexicana en Libros de Texto de la SEP
 
-## Contenido de la entrega
+## Contenido del repositorio
 
 ### 1. `text2kg-ontologies.owl (1)`
 Contiene la ontología diseñada en formato OWL.
